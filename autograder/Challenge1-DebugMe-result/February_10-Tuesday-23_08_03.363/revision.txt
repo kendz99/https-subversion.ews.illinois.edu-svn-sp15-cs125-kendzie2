@@ -1,0 +1,11 @@
+Path: work/students/kendzie2/Challenge1-DebugMe
+URL: https://subversion.ews.illinois.edu/svn/sp15-cs125/kendzie2/Challenge1-DebugMe
+Repository Root: https://subversion.ews.illinois.edu/svn/sp15-cs125
+Repository UUID: a72dd211-79c7-4cd1-bfd3-81d1efcafd85
+Revision: 10047
+Node Kind: directory
+Schedule: normal
+Last Changed Author: kendzie2
+Last Changed Rev: 9125
+Last Changed Date: 2015-02-09 18:25:42 -0600 (Mon, 09 Feb 2015)
+
