@@ -1,0 +1,11 @@
+Path: work/students/kendzie2/Challenge2-Hollywood
+URL: https://subversion.ews.illinois.edu/svn/sp15-cs125/kendzie2/Challenge2-Hollywood
+Repository Root: https://subversion.ews.illinois.edu/svn/sp15-cs125
+Repository UUID: a72dd211-79c7-4cd1-bfd3-81d1efcafd85
+Revision: 15776
+Node Kind: directory
+Schedule: normal
+Last Changed Author: kendzie2
+Last Changed Rev: 15544
+Last Changed Date: 2015-02-16 18:44:24 -0600 (Mon, 16 Feb 2015)
+
